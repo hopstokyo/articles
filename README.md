@@ -8,6 +8,7 @@ Articles/Talks from HPE Asia Pacific/Japan OpenStackers
 |2017/01/28 | Iwao | ja | [OpenStackエンジニアを育てるにはどうすればよいの？](http://qiita.com/nobuyaiwao/items/813b7ce617af43b60542) |
 |2017/01/21 | Itoh | ja | [HPEは今後もクラウド関連事業を推進します](http://thatsbun.blogspot.jp/2017/01/hpe.html) |
 |2017/01/19 | Yoshise | ja | [Real implementation of Containerized Cloud Foundry on Kubernetes ](http://www.slideshare.net/JunichiYoshise/k8s-meetup-containerizedcloudfoundry)
+|2017/01/18 | Igawa | en | [Non-native English speakers in Open Source communities: A True Story](https://linux.conf.au/schedule/presentation/70/) |
 |2017/01/02 | Itoh | ja | [書評: Ansible実践ガイド / 北山晋吾・著 / インプレス (2016.12)](http://thatsbun.blogspot.jp/2017/01/book-review-practical-ansible.html) |
 |2016/12/24 | Yoshise | ja | [Cloud Foundry on Kubernetes on OpenStackというひとつの解](http://qiita.com/jyoshise/items/88a57c9b46760a839c87) |
 |2016/12/06 | Yoshise | ja | [おぷすたディストリビューションビジネスは何処へ向かうのか](http://qiita.com/jyoshise/items/76444753ce169393239a) |
